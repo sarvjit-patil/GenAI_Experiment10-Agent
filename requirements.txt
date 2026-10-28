@@ -1,0 +1,7 @@
+streamlit>=1.40,<2.0
+langchain-community>=0.3,<1.0
+langchain-google-genai>=2.0,<4.0
+pytest>=8,<9
+python-dotenv>=1.0,<2.0
+duckduckgo-search>=7,<10
+ddgs>=9.0.0
